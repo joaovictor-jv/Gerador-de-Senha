@@ -109,3 +109,9 @@ body {
     bottom: 50px;
     opacity: 1;
 }
+
+@media screen and (max-width: 600px) {
+    body {
+        padding: 15px;
+    }
+}
